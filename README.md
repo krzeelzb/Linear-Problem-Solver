@@ -1,5 +1,13 @@
 # Linear-Problem-Solver
 
+Oznaczenia:
+
+PL - program liniowy
+
+PD - program dualny
+
+PP - program pierwotny
+
 Wejście:
 1. Warunki ograniczające dla PL (będącego PP) o zmiennych decyzyjnych x1, x2,..., xn postaci: 
 
@@ -17,6 +25,7 @@ Wyjście:
 
 
 Przykład dla:
+
 0.5*x1 + 0.4*x2 + 0.4*x3 + 0.2*x4 <= 2000
 
 0.4*x1 + 0.2*x2 + 0.5*x4 <= 2800
